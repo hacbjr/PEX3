@@ -1,10 +1,10 @@
 # Dr. Carlos Wagner – Página Pessoal | Personal Website
 
-![GitHub repo size](https://img.shields.io/github/repo-size/hacbjr/drCW)
-![GitHub last commit](https://img.shields.io/github/last-commit/hacbjr/drCW)
-![GitHub](https://img.shields.io/github/license/hacbjr/drCW)
+![GitHub repo size](https://img.shields.io/github/repo-size/hacbjr/PEX3)
+![GitHub last commit](https://img.shields.io/github/last-commit/hacbjr/PEX3)
+![GitHub](https://img.shields.io/github/license/hacbjr/PEX3)
 
-🌐 [Acesse a versão publicada | Visit the live site](https://hacbjr.github.io/drCW/)
+🌐 [Acesse a versão publicada | Visit the live site](https://hacbjr.github.io/PEX3/)
 
 ---
 
@@ -20,7 +20,7 @@ This is the personal website of Dr. Carlos Wagner, designed to showcase his medi
 
 - **HTML5** – estrutura da página | page structure  
 - **CSS3** – estilização e layout | styling and layout  
-- **JavaScript (opcional)** – interatividade | interactivity (if needed)  
+- **JavaScript** – interatividade | interactivity (if needed)  
 - **GitHub Pages** – hospedagem gratuita | free hosting
 
 ---
@@ -30,7 +30,7 @@ This is the personal website of Dr. Carlos Wagner, designed to showcase his medi
 1. Clone este repositório | Clone this repository:
 
 ```bash
-git clone https://github.com/hacbjr/drCW.git
+git clone https://github.com/hacbjr/PEX3.git
 ```
 
 2. Abra o arquivo `index.html` no seu navegador | Open `index.html` in your browser.
